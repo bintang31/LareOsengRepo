@@ -1,1 +1,2 @@
 phpinfo();
+#Penambahan Baris Clone
