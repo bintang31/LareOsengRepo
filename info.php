@@ -1,5 +1,5 @@
 phpinfo();
 #Penambahan Baris Clone
-#Update Baris Clone lareoseng02
-#Tambah Baris Lagi lareoseng02
+#Update Baris Clone lareoseng01
+#Tambah Baris Lagi lareoseng01
 #END
